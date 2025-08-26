@@ -9,7 +9,7 @@
 # Grupo
 
 - Juan Pblo Pothoven (165020) - jpp@hotmail.com
-- Carolina Wieczerynski (195270) - car...@estudiante2.com
+- Mateo Sosa (195294) - mat...@gmail.com
 
 # Contexto / Escenario
 
