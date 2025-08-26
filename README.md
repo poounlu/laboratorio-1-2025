@@ -8,8 +8,8 @@
 
 # Grupo
 
-- Estudiante 1 (Legajo 1) - cor...@estudiante1.com
-- Estudiante 2 (Legajo 2) - cor...@estudiante2.com
+- Renzo Martin Bisso (186104) - correo@gmail.com
+- Iván Alejo Peralta (197200) - correo2@gmail.com
 
 # Contexto / Escenario
 
