@@ -8,8 +8,8 @@
 
 # Grupo
 
-- Estudiante 1 (Legajo 1) - cor...@estudiante1.com
-- Estudiante 2 (Legajo 2) - cor...@estudiante2.com
+- Juan Pblo Pothoven (165020) - jpp@hotmail.com
+- Carolina Wieczerynski (195270) - car...@estudiante2.com
 
 # Contexto / Escenario
 
