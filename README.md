@@ -9,7 +9,7 @@
 # Grupo
 
 - Eric Rodriguez (118533) - egr@estudiante1.com
-- Micael Romero Monteagudo (200834) - mrm@estudiante2.com
+- Micael Romero Monteagudo (200834) - mrm@estudiante22.com
 
 # Contexto / Escenario
 
