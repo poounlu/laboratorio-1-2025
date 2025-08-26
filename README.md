@@ -8,8 +8,9 @@
 
 # Grupo
 
-- Estudiante 1 (Legajo 1) - cor...@estudiante1.com
-- Estudiante 2 (Legajo 2) - cor...@estudiante2.com
+- Francisco Jesus Tamasi (43970770) - cor...@estudiante1.com
+- Eliseo Sanchez (164514) - cor...@estudiante2.com
+- Mateo Valentin Calvo (182857)
 
 # Contexto / Escenario
 
