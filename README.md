@@ -8,8 +8,8 @@
 
 # Grupo
 
-- Estudiante 1 (Legajo 1) - cor...@estudiante1.com
-- Estudiante 2 (Legajo 2) - cor...@estudiante2.com
+- Tomas agustin coll (186116) 
+- Marìa Celeste Campagnoli Martinez (190162) 
 
 # Contexto / Escenario
 
