@@ -25,9 +25,10 @@ public class CatalogoArtefactos {
           for (Artefacto artefacto : catalogo){
               if ((artefacto.getTipo()).equals(tipo)){
                   misArtefactos.add(artefacto);
-              }
-              for (artefacto : misArtefactos){
                   misArtefactos.sort(artefacto.getPoder());
+
+              }
+
 
               }
           }
