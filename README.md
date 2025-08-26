@@ -8,7 +8,7 @@
 
 # Grupo
 
-- Maximo Gutierrez (195203) - max..@gmail.com
+- Maximo Gutierrez (195203) - max...@gmail.com
 - Sixto Scardilli (190210) - six...@gmail.com
 - Manuel Viñes (199333) - vin...@gmail.com
 
