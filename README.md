@@ -8,8 +8,8 @@
 
 # Grupo
 
-- Estudiante 1 (Legajo 1) - cor...@estudiante1.com
-- Estudiante 2 (Legajo 2) - cor...@estudiante2.com
+- Jara Juan (199595) - cor...@estudiante1.com
+- Marlon Pereyra (195408) - cor...@estudiante2.com
 
 # Contexto / Escenario
 
