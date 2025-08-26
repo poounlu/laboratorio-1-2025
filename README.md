@@ -8,8 +8,8 @@
 
 # Grupo
 
-- Estudiante 1 (Legajo 1) - cor...@estudiante1.com
-- Estudiante 2 (Legajo 2) - cor...@estudiante2.com
+- Julieta Palmieri (201106) - pal...@gmail.com
+- Patricio Baldan (195396) - pba...@gmail.com
 
 # Contexto / Escenario
 
