@@ -8,8 +8,9 @@
 
 # Grupo
 
-- Santiago Franqueira (200847) - san...@gmail.com
-- Estudiante 2 (Legajo 2) - cor...@estudiante2.com
+- Santiago Alexis Franqueira (200847) - san...@gmail.com
+- Roberto Nicolas Gayozo (195282) - nic...@gmail.com
+- Chiaramello Bianca (195259) - chi...@gmail.com
 
 # Contexto / Escenario
 
@@ -39,8 +40,8 @@ Debes desarrollar la clase `CatalogoArtefactos` que gestionará una colección d
    - Implementación correcta de `equals()` y `hashCode()`: dos artefactos se consideran iguales si tienen el mismo nombre.
 2. Clase `CatalogoArtefactos`:
    - Debe utilizar internamente una colección para almacenar los artefactos.
-   - **void agregarArtefacto(Artefacto artefacto)**: Añade un nuevo artefacto al catálogo. Si un artefacto con el mismo nombre ya existe, no se debe añadir.
-   - **Set<Artefacto> obtenerArtefactosUnicos()**: Devuelve un conjunto (`Set`) con todos los artefactos del catálogo, garantizando que no haya duplicados.
+   - **void agregarArtefacto(Artefacto artefacto)**: Añade un nuevo artefacto al catálogo. Si un artefacto con el mismo nombre ya existe, no se debe añadir. (HashSet)
+   - **Set<Artefacto> obtenerArtefactosUnicos()**: Devuelve un conjunto (`Set`) con todos los artefactos del catálogo, garantizando que no haya duplicados. (getter set)
    - **List<Artefacto> buscarArtefactosPorTipo(String tipo)**: Devuelve una lista (`List`) de artefactos que coincidan con el tipo especificado. La lista debe estar ordenada de mayor a menor poder.
    - **Map<String, Integer> contarArtefactosPorTipo()**: Devuelve un mapa (`Map`) donde la clave es el tipo de artefacto y el valor es la cantidad de artefactos de ese tipo existentes en el catálogo.
    - **Artefacto obtenerArtefactoMasPoderoso()**: Devuelve el artefacto con el mayor nivel de poder. Si hay varios con el mismo poder máximo, puede devolver cualquiera de ellos. Si el catálogo está vacío, debe devolver `null`.
