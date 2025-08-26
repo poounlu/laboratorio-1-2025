@@ -8,8 +8,8 @@
 
 # Grupo
 
-- Estudiante 1 (Legajo 1) - cor...@estudiante1.com
-- Estudiante 2 (Legajo 2) - cor...@estudiante2.com
+- De Antoni Niell, Luca Maximiliano (200822) - deantoni.lucam@gmail.com
+- Videla Matias (196660) - matiasvidelaisap@gmail.com
 
 # Contexto / Escenario
 
