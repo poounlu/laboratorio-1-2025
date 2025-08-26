@@ -8,8 +8,8 @@
 
 # Grupo
 
-- Estudiante 1 (Legajo 1) - cor...@estudiante1.com
-- Estudiante 2 (Legajo 2) - cor...@estudiante2.com
+- Agustin Daddario (196658) - correo@gmail.com
+- Valentin Quelle (195241) - correo@gmail.com
 
 # Contexto / Escenario
 
