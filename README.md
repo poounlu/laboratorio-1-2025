@@ -8,7 +8,7 @@
 
 # Grupo
 
-- Estudiante 1 (Legajo 1) - cor...@estudiante1.com
+- Santiago Franqueira (200847) - san...@gmail.com
 - Estudiante 2 (Legajo 2) - cor...@estudiante2.com
 
 # Contexto / Escenario
