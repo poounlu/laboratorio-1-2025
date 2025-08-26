@@ -8,8 +8,8 @@
 
 # Grupo
 
-- Estudiante 1 (Legajo 1) - cor...@estudiante1.com
-- Estudiante 2 (Legajo 2) - cor...@estudiante2.com
+- Maximo Gutierrez (195203) - max..@gmail.com
+- Sixto Scardilli (190210) - six...@gmail.com
 
 # Contexto / Escenario
 
