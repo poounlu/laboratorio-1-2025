@@ -8,8 +8,8 @@
 
 # Grupo
 
-- Estudiante 1 (Legajo 1) - cor...@estudiante1.com
-- Estudiante 2 (Legajo 2) - cor...@estudiante2.com
+- Estudiante 1 (Legajo 170073) - tom@estudiante1.com
+- Estudiante 2 (Legajo 203570) - bru@estudiante2.com
 
 # Contexto / Escenario
 
