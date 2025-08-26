@@ -8,8 +8,8 @@
 
 # Grupo
 
-- De Antoni Niell, Luca Maximiliano (200822) - deantoni.lucam@gmail.com
-- Videla Matias (196660) - matiasvidelaisap@gmail.com
+- De Antoni Niell, Luca Maximiliano (200822) - dea@gmail.com
+- Videla Matias (196660) - mati@gmail.com
 
 # Contexto / Escenario
 
