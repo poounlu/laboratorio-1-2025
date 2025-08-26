@@ -9,7 +9,7 @@
 # Grupo
 
 - Carolina Wieczerynski (195270) - wie...@gmail.com
-- Juan Pablo Pothoven (165020) - jpp...@hotmail.com
+- Franco Oglialoro (197964) - fra...@gmail.com
 
 # Contexto / Escenario
 
