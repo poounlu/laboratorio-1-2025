@@ -8,7 +8,7 @@
 
 # Grupo
 
-- Estudiante 1 (Legajo 1) - tom@estudiante1.com
+- Estudiante 1 (Legajo 1) - dav@estudiante1.com
 - Estudiante 2 (Legajo 2) - bru@estudiante2.com
 
 # Contexto / Escenario
