@@ -21,6 +21,6 @@ public class CatalogoArtefactos {
     }
 
     public Map<String, Integer> contarArtefactosPorTipo(){
-
+///
     }
 }
