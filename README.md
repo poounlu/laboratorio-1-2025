@@ -8,8 +8,9 @@
 
 # Grupo
 
-- Estudiante 1 (Legajo 1) - cor...@estudiante1.com
-- Estudiante 2 (Legajo 2) - cor...@estudiante2.com
+- Lopez Nayla (195207) - nay...@estudiante1.comkjhohhoñiu
+- Braian Hernan Meza Amarilla (195219) - braian...@estudiante2.com
+
 
 # Contexto / Escenario
 
@@ -25,7 +26,7 @@ reliquias.
 - Aplicar el uso de colecciones de Java del Framework `java.util` para gestionar un conjunto de datos.
 - Seleccionar y justificar la estructura de datos más adecuada para resolver problemas específicos (búsqueda, almacenamiento sin duplicados, mapeo clave-valor).
 - Implementar métodos que operen sobre colecciones para filtrar, agrupar y procesar datos.
-- Practicar la creación de clases con `equals()` y `hashCode()` correctamente implementados.
+- Practicar la creación de clases con `equals()` y `hashCode()` correctamente implementados. bhjvgjhguj
 - Validar una solución de software utilizando tests unitarios provistos en JUnit 5.
 
 # Enunciado
