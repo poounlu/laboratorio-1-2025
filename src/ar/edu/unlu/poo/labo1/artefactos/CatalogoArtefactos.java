@@ -24,13 +24,17 @@ public class CatalogoArtefactos {
                 lista.add(item);
             }
         }
+        return lista;
     }
 
     public Map<String,Integer> contarArtefactosPorTipo(){
         Map<String,Integer> tabla = new HashMap<>();
         for(Artefacto item : artefactos){
             Integer valor = tabla.putIfAbsent(item.getTipo(), 1);
-            if()
+            if(valor != null){
+                tabla.put(item.getTipo(),valor+1);
+            }
         }
+        return tabla;
     }
 }
