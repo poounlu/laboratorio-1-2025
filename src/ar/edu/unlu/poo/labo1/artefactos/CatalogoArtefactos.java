@@ -28,10 +28,14 @@ public class CatalogoArtefactos {
         Collections.sort(tipoArtefactos, new Comparator<Artefacto>() {
             @Override
             public int compare(Artefacto o1, Artefacto o2) {
+                int n = 0;
                 if(o1.getPoder() > o2.getPoder()){
-
+                    n = 1;
                 }
-                return 0;
+                else if (o1.getPoder() < o2.getPoder()){
+                    n = -1;
+                }
+                return n;
             }
         });
 
@@ -39,29 +43,20 @@ public class CatalogoArtefactos {
     }
 
 
-    private ArrayList ordenarLista(ArrayList<Artefacto> lista){
-        ArrayList<Artefacto> listaOrdenada = new ArrayList<>();
-        for (Artefacto artefacto : lista){
-            int poder = artefacto.getPoder();
-
-        }
-
-
-
-    }
-
     public Map<String, Integer> contarArtefactosPorTipo(){
         Map<String, Integer> artefactosTipo = new HashMap<>();
 
         for(Artefacto artefacto: artefactos){
-            artefactosTipo(artefacto.getTipo(),);
+            //artefactosTipo(artefacto.getTipo(),);
         }
+        return null;
     }
 
     public Artefacto obtenerArtefactoMasPoderoso(){
         for (Artefacto artefacto: artefactos){
 
         }
+        return null;
     }
 }
 
