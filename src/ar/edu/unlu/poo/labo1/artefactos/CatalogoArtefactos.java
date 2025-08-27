@@ -6,10 +6,11 @@ public class CatalogoArtefactos {
      HashMap<Artefacto, Integer> misobjetos = new HashMap<>();
      private int clave = 0;
 
-     public void agregarArtefacto (Artefacto newartefacto){
+     public void agregarArtefacto (Artefacto newartefacto) {
          misobjetos.put(newartefacto, 1);
 
          generarclave();
+
      }
 
      private int generarclave(){
