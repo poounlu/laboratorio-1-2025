@@ -20,6 +20,7 @@ public class Artefacto {
     public int getNivel() {
         return nivel;
     }
+
     public String getTipoObjeto() {
         return tipoobjeto;
     }

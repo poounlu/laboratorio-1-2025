@@ -13,6 +13,7 @@ public class CatalogoArtefactos {
 
      }
 
+
      private int generarclave(){
          clave++;
          return  clave;

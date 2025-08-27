@@ -8,7 +8,7 @@
 
 # Grupo
 
-- Facundo Fernandez (190174) - facundo.fernandezfn@gmail.com
+- Facundo Fernandez (190174) - facundo.fernandezfn@gmail.com   
 - Valentin Ziegenbein (193136) - valenziegenbein@gmail.com
 
 # Contexto / Escenario
