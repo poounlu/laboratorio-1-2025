@@ -8,8 +8,8 @@
 
 # Grupo
 
-- Estudiante 1 (Legajo 1) - cor...@estudiante1.com
-- Estudiante 2 (Legajo 2) - cor...@estudiante2.com
+- Estudiante 1 Roldan Tomas Nahuel (200924) reytomas1nm@gmail.com
+- Estudiante 2 Herrera Cristian Ezequiel (200839) cristian46339@gmail.com
 
 # Contexto / Escenario
 
