@@ -8,8 +8,9 @@
 
 # Grupo
 
-- Estudiante 1 (Legajo 1) - cor...@estudiante1.com
-- Estudiante 2 (Legajo 2) - cor...@estudiante2.com
+- Fiorentino Fabricio 190181    fabrifiorentino2016@gmail.com
+- Martin Tomas        187641    tomas.martinn10@gmail.com
+- Falasca Franco      195325    francofalasca14@gmail.com
 
 # Contexto / Escenario
 
