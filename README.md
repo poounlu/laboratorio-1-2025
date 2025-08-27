@@ -8,8 +8,8 @@
 
 # Grupo
 
-- Estudiante 1 (Legajo 1) - cor...@estudiante1.com
-- Estudiante 2 (Legajo 2) - cor...@estudiante2.com
+- Matías Baldassini 200906 matias28baldassini@gmail.com
+- Nicolas Versaci 198892 nicolascoco17@gmail.com
 
 # Contexto / Escenario
 
