@@ -9,17 +9,17 @@ import static java.util.Comparator.comparingInt;
 
 public class CatalogoArtefactos {
     private Set<Artefacto> colecionArtefactos = new HashSet<>();
-    private Map<Artefacto, Integer> mapaArtefactos = new HashMap<>();
+    private Map<String, Integer> mapaArtefactos = new HashMap<>();
     int contadorPocion, contadorPergamino, contadorAmuleto, contadorVarita = 0;
 
     public void agregarArtefacto(Artefacto nuevoArtefacto){
        //agregar if para avisar si elemento repetido
         colecionArtefactos.add(nuevoArtefacto);
         switch (nuevoArtefacto.getTipo()){
-            case "Pocion": mapaArtefactos.put(nuevoArtefacto, contadorPocion++);
-            case "Pergamino": mapaArtefactos.put(nuevoArtefacto, contadorPergamino++);
-            case "Amuleto": mapaArtefactos.put(nuevoArtefacto, contadorAmuleto++);
-            case "Varita": mapaArtefactos.put(nuevoArtefacto, contadorVarita++);
+            case "Pocion": mapaArtefactos.put(nuevoArtefacto.getTipo(), contadorPocion++);
+            case "Pergamino": mapaArtefactos.put(nuevoArtefacto.getTipo(), contadorPergamino++);
+            case "Amuleto": mapaArtefactos.put(nuevoArtefacto.getTipo(), contadorAmuleto++);
+            case "Varita": mapaArtefactos.put(nuevoArtefacto.getTipo(), contadorVarita++);
         }
     }
 
@@ -40,7 +40,18 @@ public class CatalogoArtefactos {
     }
 
     public Map<String, Integer> contarArtefactosPorTipo(){
-
+        return mapaArtefactos;
+    }
+    public Artefacto obtenerArtefactoMasPoderoso(){
+        int maxPoder = 0;
+        Artefacto masPoderoso = null;
+        for (Artefacto a : colecionArtefactos) {
+            if (a.getPoder()>maxPoder) {
+                masPoderoso = a;
+                maxPoder = a.getPoder();
+            }
+        }
+        return masPoderoso;
     }
 
 }
