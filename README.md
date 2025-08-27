@@ -8,8 +8,8 @@
 
 # Grupo
 
-- Estudiante 1 (Legajo 1) - cor...@estudiante1.com
-- Estudiante 2 (Legajo 2) - cor...@estudiante2.com
+- Facundo Fernandez (190174) - facundo.fernandezfn@gmail.com   
+- Valentin Ziegenbein (193136) - valenziegenbein@gmail.com
 
 # Contexto / Escenario
 
