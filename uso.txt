@@ -1,0 +1,4 @@
+javac -cp .:junit-platform-console-standalone-1.13.4.jar laboratorio-1-2025/src/ar/edu/unlu/poo/labo1/artefactos/*.java laboratorio-1-2025/src/ar/edu/unlu/poo/labo1/libreria/*.java laboratorio-1-2025/tests/ar/edu/unlu/poo/labo1/artefactos/*.java
+
+
+& java -jar junit-platform-console-standalone-1.13.4.jar -cp . --scan-class-path
