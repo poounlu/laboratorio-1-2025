@@ -44,7 +44,12 @@ public class CatalogoArtefactos {
         //Iterar por el set
         for (Artefacto artefacto : catalogoArt){
             //Agregar 1 al contador en el tipo de corresponda
-            
+            int conteoActual = cantidadPorTipo.get(artefacto.getTipo());
+            if(conteoActual){
+                cantidadPorTipo.put(artefacto.getTipo(), 0);
+            } else {
+                cantidadPorTipo.put(artefacto.getTipo(), conteoActual+1);
+            }
         }
 
 
